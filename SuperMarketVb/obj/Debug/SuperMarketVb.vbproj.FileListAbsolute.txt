@@ -1,0 +1,37 @@
+c:\users\aio\documents\visual studio 2015\Projects\SuperMarketVb\SuperMarketVb\bin\Debug\SuperMarketVb.exe.config
+c:\users\aio\documents\visual studio 2015\Projects\SuperMarketVb\SuperMarketVb\bin\Debug\superdb.mdf
+c:\users\aio\documents\visual studio 2015\Projects\SuperMarketVb\SuperMarketVb\bin\Debug\superdb_log.ldf
+c:\users\aio\documents\visual studio 2015\Projects\SuperMarketVb\SuperMarketVb\bin\Debug\SuperMarketVb.exe
+c:\users\aio\documents\visual studio 2015\Projects\SuperMarketVb\SuperMarketVb\bin\Debug\SuperMarketVb.pdb
+c:\users\aio\documents\visual studio 2015\Projects\SuperMarketVb\SuperMarketVb\bin\Debug\SuperMarketVb.xml
+c:\users\aio\documents\visual studio 2015\Projects\SuperMarketVb\SuperMarketVb\bin\Debug\Guna.UI2.dll
+c:\users\aio\documents\visual studio 2015\Projects\SuperMarketVb\SuperMarketVb\obj\Debug\SuperMarketVb.vbprojResolveAssemblyReference.cache
+c:\users\aio\documents\visual studio 2015\Projects\SuperMarketVb\SuperMarketVb\obj\Debug\SuperMarketVb.Form1.resources
+c:\users\aio\documents\visual studio 2015\Projects\SuperMarketVb\SuperMarketVb\obj\Debug\SuperMarketVb.Resources.resources
+c:\users\aio\documents\visual studio 2015\Projects\SuperMarketVb\SuperMarketVb\obj\Debug\SuperMarketVb.vbproj.GenerateResource.Cache
+c:\users\aio\documents\visual studio 2015\Projects\SuperMarketVb\SuperMarketVb\obj\Debug\SuperMarketVb.exe
+c:\users\aio\documents\visual studio 2015\Projects\SuperMarketVb\SuperMarketVb\obj\Debug\SuperMarketVb.xml
+c:\users\aio\documents\visual studio 2015\Projects\SuperMarketVb\SuperMarketVb\obj\Debug\SuperMarketVb.pdb
+c:\users\aio\documents\visual studio 2015\Projects\SuperMarketVb\SuperMarketVb\obj\Debug\SuperMarketVb.Product.resources
+c:\users\aio\documents\visual studio 2015\Projects\SuperMarketVb\SuperMarketVb\obj\Debug\SuperMarketVb.Category.resources
+C:\Users\AIO\documents\visual studio 2015\Projects\SuperMarketVb\SuperMarketVb\obj\Debug\SuperMarketVb.Admin.resources
+C:\Users\AIO\documents\visual studio 2015\Projects\SuperMarketVb\SuperMarketVb\obj\Debug\SuperMarketVb.Selleing.resources
+C:\Users\MO-Malik\Desktop\SuperMarketVb\SuperMarketVb\bin\Debug\superdb.mdf
+C:\Users\MO-Malik\Desktop\SuperMarketVb\SuperMarketVb\bin\Debug\superdb_log.ldf
+C:\Users\MO-Malik\Desktop\SuperMarketVb\SuperMarketVb\bin\Debug\SuperMarketVb.exe.config
+C:\Users\MO-Malik\Desktop\SuperMarketVb\SuperMarketVb\bin\Debug\SuperMarketVb.exe
+C:\Users\MO-Malik\Desktop\SuperMarketVb\SuperMarketVb\bin\Debug\SuperMarketVb.pdb
+C:\Users\MO-Malik\Desktop\SuperMarketVb\SuperMarketVb\bin\Debug\SuperMarketVb.xml
+C:\Users\MO-Malik\Desktop\SuperMarketVb\SuperMarketVb\obj\Debug\SuperMarketVb.vbprojAssemblyReference.cache
+C:\Users\MO-Malik\Desktop\SuperMarketVb\SuperMarketVb\obj\Debug\SuperMarketVb.Admin.resources
+C:\Users\MO-Malik\Desktop\SuperMarketVb\SuperMarketVb\obj\Debug\SuperMarketVb.Category.resources
+C:\Users\MO-Malik\Desktop\SuperMarketVb\SuperMarketVb\obj\Debug\SuperMarketVb.Form1.resources
+C:\Users\MO-Malik\Desktop\SuperMarketVb\SuperMarketVb\obj\Debug\SuperMarketVb.Resources.resources
+C:\Users\MO-Malik\Desktop\SuperMarketVb\SuperMarketVb\obj\Debug\SuperMarketVb.Product.resources
+C:\Users\MO-Malik\Desktop\SuperMarketVb\SuperMarketVb\obj\Debug\SuperMarketVb.Selleing.resources
+C:\Users\MO-Malik\Desktop\SuperMarketVb\SuperMarketVb\obj\Debug\SuperMarketVb.vbproj.GenerateResource.cache
+C:\Users\MO-Malik\Desktop\SuperMarketVb\SuperMarketVb\obj\Debug\SuperMarketVb.vbproj.CoreCompileInputs.cache
+C:\Users\MO-Malik\Desktop\SuperMarketVb\SuperMarketVb\obj\Debug\SuperMarketVb.vbproj.CopyComplete
+C:\Users\MO-Malik\Desktop\SuperMarketVb\SuperMarketVb\obj\Debug\SuperMarketVb.exe
+C:\Users\MO-Malik\Desktop\SuperMarketVb\SuperMarketVb\obj\Debug\SuperMarketVb.xml
+C:\Users\MO-Malik\Desktop\SuperMarketVb\SuperMarketVb\obj\Debug\SuperMarketVb.pdb
